@@ -3,7 +3,7 @@
 
   <h1>👋 Hello! I'm David Hospinal</h1>
 
-  <p><i>Master in IT & Management | Data Science & AI Specialist | Innovation Driver</i></p>
+  <p><i>Master in IT & Management | AI Projects Consultant & Project Manager | Innovation Driver</i></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscardavidhospinal/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oscardavidhospinal)
@@ -38,11 +38,14 @@
   <h3>🎓 Academic Background</h3>
   <ul>
     <li><b>Master in Information Technology & Management</b><br>Pontificia Universidad Católica de Chile</li>
+    <li><b>Diplomatura in Computational Science</b><br>Universidad Nacional de Ingeniería (Jan 2025 - Sept 2025)<br><i>Comprehensive training: ODOO ERP (functional/technical), Scrum & PMI Level I-II, MS Project & Primavera P6, ISO 27001, Oracle fundamentals. Combining agile methodologies, PMI/PMBOK standards, and enterprise systems.</i></li>
+    <li><b>Living and Studying Internationally (CEFR ENG B1/B2)</b><br>Eberhard Karls Universität Tübingen, Germany (Jan 2024 - May 2024)<br><i>Tübingen Virtual Intercultural Program (TÜ-VIP): Enhanced intercultural and global competencies through collaborative projects, developing adaptability and leadership in multicultural technological settings.</i></li>
     <li><b>Systems Engineer</b><br>Universidad Peruana de Ciencias Aplicadas (UPC)</li>
   </ul>
 
   <h3>💼 Professional Expertise</h3>
   <ul>
+    <li>🎯 <b>AI Project Management & Consulting</b> - Strategic planning and delivery of AI solutions</li>
     <li>🤖 <b>Artificial Intelligence & Machine Learning</b></li>
     <li>📊 <b>Data Science & Analytics</b></li>
     <li>🔄 <b>Digital Transformation Leadership</b></li>
@@ -193,6 +196,7 @@ Check out my scientific articles and research contributions:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -205,9 +209,12 @@ Check out my scientific articles and research contributions:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![DeepInverse](https://img.shields.io/badge/DeepInverse-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -217,6 +224,10 @@ Check out my scientific articles and research contributions:
 ![ERP](https://img.shields.io/badge/ERP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-00A4EF?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![CIDOC CRM](https://img.shields.io/badge/CIDOC_CRM-008080?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 </div>
 
@@ -237,36 +248,106 @@ Check out my scientific articles and research contributions:
 
 ## 🎯 Industry Experience
 
+<div align="center">
+
+### 10+ Years Across Multiple Industries
+
 ```mermaid
-mindmap
-  root((David Hospinal
-    10+ Years))
-    Hospitality
-      Operations Management
-      Customer Experience
-      Quality Control
-    Tech & Telecom
-      IT Systems Integration
-      Digital Transformation
-      SAP ERP Implementation
-    Banking & Finance
-      Process Optimization
-      Risk Analysis
-      AI Consulting
-    Energy & Hydrocarbons
-      Supply Chain Optimization
-      Logistics Management
-      Data Analytics
-    Construction & Retail
-      Project Management
-      KPI Development
-      Team Leadership
-    Data Science & AI
-      Machine Learning Models
-      Computer Vision
-      NLP & BERT Models
-      Predictive Analytics
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1e90ff','primaryTextColor':'#fff','primaryBorderColor':'#00d4ff','lineColor':'#00d4ff','secondaryColor':'#ff6b6b','tertiaryColor':'#4ecdc4','noteTextColor':'#fff','noteBkgColor':'#1e3a8a'}}}%%
+graph TB
+    A[<b>David Hospinal</b><br/>10+ Years Experience]
+
+    A -->|Strategic| B[🏨 Hospitality]
+    A -->|Technical| C[💻 Tech & Telecom]
+    A -->|Financial| D[🏦 Banking & Finance]
+    A -->|Industrial| E[⚡ Energy & Hydrocarbons]
+    A -->|Management| F[🏗️ Construction & Retail]
+    A -->|Innovation| G[🤖 Data Science & AI]
+
+    B --> B1[Operations Management]
+    B --> B2[Customer Experience]
+    B --> B3[Quality Control]
+
+    C --> C1[IT Systems Integration]
+    C --> C2[Digital Transformation]
+    C --> C3[SAP ERP Implementation]
+
+    D --> D1[Process Optimization]
+    D --> D2[Risk Analysis]
+    D --> D3[AI Consulting]
+
+    E --> E1[Supply Chain Optimization]
+    E --> E2[Logistics Management]
+    E --> E3[Data Analytics]
+
+    F --> F1[Project Management]
+    F --> F2[KPI Development]
+    F --> F3[Team Leadership]
+
+    G --> G1[Machine Learning Models]
+    G --> G2[Computer Vision]
+    G --> G3[NLP & BERT Models]
+    G --> G4[Predictive Analytics]
+
+    style A fill:#1e3a8a,stroke:#00d4ff,stroke-width:4px,color:#fff
+    style B fill:#2563eb,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style C fill:#2563eb,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style D fill:#2563eb,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style E fill:#2563eb,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style F fill:#2563eb,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style G fill:#7c3aed,stroke:#a78bfa,stroke-width:3px,color:#fff
 ```
+
+</div>
+
+---
+
+## 🎓 Deep Learning Experience: Universidad de Buenos Aires
+
+<div align="center">
+
+### 🇨🇱 ➡️ 🇦🇷 1st Spring School in Deep Learning at UBA
+
+<table>
+<tr>
+<td width="45%" align="center">
+  <a href="https://youtube.com/shorts/Ca7eTXKoc-0" target="_blank">
+    <img src="https://img.youtube.com/vi/Ca7eTXKoc-0/maxresdefault.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,212,255,0.4);" alt="Deep Learning UBA Experience">
+  </a>
+  <br><br>
+  <a href="https://youtube.com/shorts/Ca7eTXKoc-0" target="_blank">
+    <img src="https://img.shields.io/badge/▶_WATCH_EXPERIENCE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</td>
+<td width="55%" align="left">
+  <h3>✈️ International Deep Learning Journey</h3>
+
+  <p><b>Event:</b> 1st Spring School in Deep Learning<br>
+  <b>Location:</b> Universidad de Buenos Aires (UBA), Argentina<br>
+  <b>Date:</b> October 20-24, 2025<br>
+  <b>Distance:</b> 1,139 km from Santiago, Chile to Buenos Aires</p>
+
+  <h4>🌟 Highlights</h4>
+  <ul>
+    <li>🌎 <b>International Networking</b> with professionals from 15+ countries:<br>
+    <i>Argentina, Chile, Brazil, Colombia, Ecuador, Uruguay, Paraguay, Peru, Mexico, Cuba, Costa Rica, France, Spain, Guatemala, Venezuela</i></li>
+    <li>📚 <b>Intensive Learning</b> on latest Deep Learning trends and techniques</li>
+    <li>🏛️ <b>Knowledge Exchange</b> at one of Latin America's most prestigious institutions</li>
+    <li>💡 <b>New Perspectives</b> on AI applications across diverse sectors</li>
+  </ul>
+
+  <h4>🙏 Special Thanks to Organizers</h4>
+  <p><i>Enzo Ferrante, Marcelo Pereyra, Nicolás Gaggion</i></p>
+
+  <h4>🏢 Supporting Organizations</h4>
+  <p><i>International Centre for Mathematical Sciences • CNRS • Heriot-Watt University • Apple • Inria Chile • ICC-UBA-CONICET • Facultad de Ciencias Exactas y Naturales UBA • Departamento de Computación Exactas-UBA • Laboratorio de Inteligencia Artificial Aplicada</i></p>
+
+  <p>💡 <b>Key Takeaway:</b> The importance of stepping out of our comfort zone and connecting with communities that share our passion for technology and innovation.</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
