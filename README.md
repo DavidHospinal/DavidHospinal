@@ -1,5 +1,7 @@
 <div align="center">
   <img src="./recursos/Banner%20Hospinal%20Systems.gif" alt="Banner Hospinal Systems" width="100%">
+  ![Banner Hospinal Systems](https://github.com/user-attachments/assets/2fda6c56-f505-4b38-9f94-ac51f7b5a56f)
+
 
   <h1>👋 Hello! I'm David Hospinal</h1>
 
@@ -393,5 +395,8 @@ I'm always looking for new challenges and opportunities to apply my knowledge an
   <br>
 
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DavidHospinal.DavidHospinal)
+
+  ![Gift-Firma de Correo Electrónico  (Alta Resolución)](https://github.com/user-attachments/assets/0bb36cf3-f2fe-44ba-91ac-0c94c341f197)
+
 
 </div>
