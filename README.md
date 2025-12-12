@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./recursos/Banner%20Hospinal%20Systems.gif" alt="Banner Hospinal Systems" width="100%">
-  ![Banner Hospinal Systems](https://github.com/user-attachments/assets/2fda6c56-f505-4b38-9f94-ac51f7b5a56f)
+
+ ![Banner Hospinal Systems](https://github.com/user-attachments/assets/07938c5b-049b-462d-92d1-cc10eb3a5259)
+
 
 
   <h1>👋 Hello! I'm David Hospinal</h1>
