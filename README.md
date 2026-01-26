@@ -176,6 +176,45 @@ Check out my scientific articles and research contributions:
   </div>
 </td>
 </tr>
+
+<!-- Row 3: New Projects -->
+<tr>
+<td width="50%" align="center">
+  <div style="transform: perspective(1000px) rotateY(-5deg); transition: all 0.3s;">
+    <h3>🦷 Dental Vision AI</h3>
+    <a href="https://youtu.be/ZGjs8cYaYCI" target="_blank">
+      <img src="https://img.youtube.com/vi/ZGjs8cYaYCI/maxresdefault.jpg" width="90%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="Dental Vision AI">
+    </a>
+    <p>
+      <a href="https://github.com/DavidHospinal/DentalVisionAI" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://youtu.be/ZGjs8cYaYCI" target="_blank">
+        <img src="https://img.shields.io/badge/WATCH-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </p>
+    <p><i>Full Kotlin Multiplatform diagnostic ecosystem with Gemini AI & YOLOv12 for Android, Desktop & Web</i></p>
+  </div>
+</td>
+
+<td width="50%" align="center">
+  <div style="transform: perspective(1000px) rotateY(5deg); transition: all 0.3s;">
+    <h3>🔬 Self-Supervised Denoising</h3>
+    <a href="https://youtu.be/U3rDmwLv4A4" target="_blank">
+      <img src="https://img.youtube.com/vi/U3rDmwLv4A4/maxresdefault.jpg" width="90%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="Self-Supervised Denoising">
+    </a>
+    <p>
+      <a href="https://github.com/DavidHospinal/jt-fluorescencemicroscopy" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://youtu.be/U3rDmwLv4A4" target="_blank">
+        <img src="https://img.shields.io/badge/WATCH-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+    </p>
+    <p><i>Self-supervised denoising methods in microscopy using DeepInverse for TACS classification improvement</i></p>
+  </div>
+</td>
+</tr>
 </table>
 
 ### 📺 More Content
