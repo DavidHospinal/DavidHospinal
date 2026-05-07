@@ -6,7 +6,7 @@
 
   <h1>👋 Hello! I'm David Hospinal</h1>
 
-  <p><i>Master in IT & Management | AI Projects Consultant & Project Manager | Innovation Driver</i></p>
+  <p><i> PhD Researcher in Computer Vision (I+D+i / R&D) | Master in IT & Management | AI Projects Consultant & Project Manager | Innovation Driver</i></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscardavidhospinal/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oscardavidhospinal)
