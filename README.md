@@ -201,10 +201,10 @@ Check out my scientific articles and research contributions:
   <div style="transform: perspective(1000px) rotateY(5deg); transition: all 0.3s;">
     <h3>🚀 YOLO26 Benchmark</h3>
     <a href="https://youtu.be/3ki38BnKBHg" target="_blank">
-      <img src="https://img.youtube.com/vi/U3rDmwLv4A4/maxresdefault.jpg" width="90%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="Self-Supervised Denoising">
+      <img src="https://img.youtube.com/vi/3ki38BnKBHg/maxresdefault.jpg" width="90%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="Self-Supervised Denoising">
     </a>
     <p>
-      <a href="https://github.com/DavidHospinal/jt-fluorescencemicroscopy" target="_blank">
+      <a href="https://github.com/DavidHospinal" target="_blank">
         <img src="https://img.shields.io/badge/CODE-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <a href="https://youtu.be/3ki38BnKBHg" target="_blank">
